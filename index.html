@@ -2,8 +2,14 @@
 layout: default
 title: Susan Juvet's Blog
 ---
-
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}/blog{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
 <div id="home">
+<ul class="posts">
   <h1>Blog Posts</h1>
   <li><span></span> &raquo; <a href="http://www.sjuvet.github.io/blog/_layouts/post.html">ONE- Ideas</a></li>
   <li><span></span> &raquo; <a href="http://sjuvet.github.io/blog/_layouts/post2.html/#darwin">TWO- Research</a></li>
@@ -12,6 +18,7 @@ title: Susan Juvet's Blog
   
   <h1>References + Research + Inspiration</h1>
   <ul class="posts">
+    <li><span></span> &raquo; <a href="http://www.vanityfair.com/vf-hollywood/2014/11/selfie-cultural-obsession/#darwin">Vanity Fair: Why The Selfie is Here To Stay</a></li>
   <li><span></span> &raquo; <a href="http://www.wired.com/2014/05/pixifly/#darwin">Wired Magazine: Instagram Mapping App</a></li>
  <li><span></span> &raquo; <a href="http://www.forbes.com/sites/tjmccue/2014/02/28/your-social-media-conversation-is-like-a-topographic-map/#darwin">Forbes Magazine: Social Media Conversation is like a Topographic Map</a></li>
  <li><span></span> &raquo; <a href="http://www.pewinternet.org/2014/02/20/part-2-conversational-archetypes-six-conversation-and-group-network-structures-in-twitter/#network-type-2-tight-crowd-network-communities/#darwin">Group Network Structures using Twitter</a></li> 
