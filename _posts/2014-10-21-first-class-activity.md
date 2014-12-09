@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post One
+title: Ideas
 ---
 
 {{ page.title }}
@@ -10,8 +10,8 @@ title: Post One
 
 Ideas for the Mapping Project
 
-![]({{ site.url }}/blog-template/images/selfie.jpg)
-![]({{ site.url }}/blog-template/images/contraceptive.jpg)
-![]({{ site.url }}/blog-template/images/clothing.jpg)
-![]({{ site.url }}/blog-template/images/family.jpg)
+![]({{ site.url }}/blog/images/selfie.jpg)
+![]({{ site.url }}/blog/images/contraceptive.jpg)
+![]({{ site.url }}/blog/images/clothing.jpg)
+![]({{ site.url }}/blog/images/family.jpg)
 
