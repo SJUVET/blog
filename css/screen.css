@@ -16,8 +16,8 @@ html, body {
 }
 
 body {
-  background-color: grey;
-  font: 13.34px Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif  monospace;
+  background-color: green;
+  font: 13.34px Arial, Geneva, Helvetica, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -68,7 +68,8 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif  monospace;
+	font-family: Arial, Geneva, Helvetica, sans-serif  monospace;
+
     font-size: 80%;
   }
 
