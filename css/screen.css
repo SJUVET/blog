@@ -35,15 +35,15 @@ p {
 }
 
 a {
-  color: #7A0065;
+  color: #007F7F;
 }
 
 a:hover {
-  color: black;
+  color: #BEBEBE;
 }
 
 a:visited {
-  color: #007F7F;
+  color: #3E0B37;
 }
 
 table {
