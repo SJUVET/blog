@@ -14,6 +14,8 @@ Selfies are a reflection of self and so is this project. I don't know. I want to
 
 ![]({{ site.url }}/blog/images/home.jpg)
 
+![]({{ site.url }}/blog/images/mask.jpg)
+
 ![]({{ site.url }}/blog/images/monkey.jpg)
 
 How I really feel.
