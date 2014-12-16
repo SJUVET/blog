@@ -157,7 +157,9 @@ ul.posts {
 
   #post pre {
     border: 1px solid #ddd;
-    background-color: #eef;
+    background-color: #EFFFFF;
+  font: 13.34px "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, sans-serif;
+  *font-size: small;
     padding: 0 .4em;
   }
 
