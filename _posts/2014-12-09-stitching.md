@@ -19,4 +19,5 @@ More progress:
 ![]({{ site.url }}/blog/images/sketch3.jpg)
 
 Roughly sketching the final before stitching:
+
 ![]({{ site.url }}/blog/images/cloth1.jpg)
