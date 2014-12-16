@@ -15,3 +15,5 @@ Selfies are a reflection of self and so is this project. I don't know. I want to
 ![]({{ site.url }}/blog/images/selfiehome.jpg)
 At home and not feeling very motivated. 
 
+![]({{ site.url }}/blog/images/monkey.jpg)
+How I really feel.
