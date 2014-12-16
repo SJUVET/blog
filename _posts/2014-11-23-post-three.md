@@ -13,7 +13,7 @@ I have really struggled with this project. This has been a very difficult journe
 Selfies are a reflection of self and so is this project. I don't know. I want to make something I am proud of but also want to make something that has a point. At this stage I feel lost and confused about my project and very apprehensive about the final! I am documenting a lot of my process through selfies.
 
 ![]({{ site.url }}/blog/images/selfiehome.jpg)
-At home and not feeling very motivated. 
+Me at home.
 
 ![]({{ site.url }}/blog/images/monkey.jpg)
 How I really feel.
