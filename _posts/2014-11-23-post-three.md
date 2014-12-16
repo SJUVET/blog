@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Ongoing Process
+layout: default
+title: Ongoing Indvidual Process
 ---
 
 {{ page.title }}
@@ -8,11 +8,10 @@ title: Ongoing Process
 
 <p class="meta">
 
-Research:
-PUT STUFF HERE
+Thoughts:
+I have really struggled with this project. This has been a very difficult journey this far and I wish my idea was not so conceptual. I wish I had a creative partner to bounce ideas off of at this point. 
+Selfies are a reflection of self and so is this project. I don't know. I want to make something I am proud of but also want to make something that has a point. At this stage I feel lost and confused about my project and very apprehensive about the final! I am documenting a lot of my process through selfies.
 
-![]({{ site.url }}/blog/images/geotagny.jpg)
-![]({{ site.url }}/blog/images/selfiecity.jpg)
-![]({{ site.url }}/blog/images/haptic.jpg)
-![]({{ site.url }}/blog/images/time.jpg)
+![]({{ site.url }}/blog/images/selfiehome.jpg)
+At home and not feeling very motivated. 
 
