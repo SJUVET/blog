@@ -22,7 +22,7 @@ A facial feature aka a Selfie to cross stitch
 
 An example of cross stitched facial feature using a software...not that inspiring.
 
-![]({{ site.url }}/blog/images/face2.jpg)
+![]({{ site.url }}/blog/images/face2.gif)
 
 
 
